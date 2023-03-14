@@ -1,0 +1,13 @@
+napravi aplikaciju koja ce kad je pokrenes ispisati: 
+"Napisite vreme i opis sta ste radili u projektu" 
+
+i u novom redu nek ti bude prvo ponudjeno vreme: 
+ti upisi tacno vreme u formatu 2023-02-01 9:30 - 2023-02-01 11:30 
+( ako se ne unese tako, trazi da se ponovo upise ispravno), 
+a nakon toga i opis sta si radio ( to nek bude bilo kakav string i ne mora da se proveravaju karakteri) 
+i zatim upisi u fajl.
+
+posle toga
+napravi jos 1 aplikaciju, koja ce iscitati 2 kolone u rastucem redosledu po datumu . u 1 koloni prikazi vreme a u drugoj opis posla koji si radio
+u 2. aplikaciji treba da prikazes u konzoli sva vremena koja si logovao u 1. aplikaciji,
+

@@ -1,0 +1,22 @@
+Iz  ulazne datoteke studenti.txt. učitati podatke o studentima u niz objekata pri čemu podatke o studentu
+čine:
+● BROJ INDEKSA (izračunati broj potrebnih karaktera) 
+● IME (jedna reč, do 20 karaktera)
+● PREZIME (jedna reč, do 20 karaktera)
+● BROJ POENA (neoznačen ceo broj)
+Nakon toga:
+a) Sortirati niz prema broju indeksa i ispisati ga u datoteku sortirani_studenti.txt.
+b) Na standardni izlaz ispisati studenta sa najdužim i studenta sa najkraćim prezimenom.
+c) Ispisati sve studente koji imaju više poena od broja koji je zadat kao argument poziva
+programa u fajl čiji se naziv sastoji iz prefiksa “preko_”, unete cifre i postfiksa “_poena.txt”
+(primer: preko_35_poena.txt)
+d) U fajl izlaz.txt ispisati prosečnu dužinu imena studenata.
+Nazivi ulazne datoteke i broja poena prosleđuju se kao argumenti poziva programa.
+Primer ulazne datoteke student.txt:
+RA45/2009 Kristopher Coutts 39
+RA12/2009 Radclyffe Papadopoulos 23
+RA126/2009 Yushua Schulze 40
+RA203/2012 Lara Heeren 26
+RA3/2015 Malik Babicic 32
+RA69/2011 Memme Rider 47
+RA2/2011 Adrianna Vandroogenbroeck 50
